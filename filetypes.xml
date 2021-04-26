@@ -2,8 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Makefile" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
-      <mapping ext="graphqlconfig" type="JSON" />
+      <mapping pattern="Shop" type="AUTO_DETECTED" />
       <mapping pattern="count" type="PLAIN_TEXT" />
       <mapping pattern="maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".vcskeep" type="PLAIN_TEXT" />
