@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="GitIgnore" injector-id="xml">
-      <display-name>form/@action</display-name>
-      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("action")).withParent(xmlTag().withLocalName(string().equalTo("form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
-    </injection>
-  </component>
-</application>
